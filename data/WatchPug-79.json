@@ -1,0 +1,9 @@
+{
+  "contest": 117,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "`Comptroller#_initializeNftCollateral` Collateral Factor for new market may be larger than `collateralFactorMaxMantissa`, which can lead to bad debt",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2022-05-bunker-findings/issues/79"
+}
