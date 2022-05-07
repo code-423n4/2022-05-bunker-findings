@@ -1,0 +1,9 @@
+{
+  "contest": 117,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "Inappropriate ERC1155 support leads to misjudgment of collateral value",
+  "issueId": 81,
+  "issueUrl": "https://github.com/code-423n4/2022-05-bunker-findings/issues/81"
+}
