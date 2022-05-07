@@ -1,0 +1,9 @@
+{
+  "contest": 117,
+  "handle": "0xDjango",
+  "address": "0x5938Dc681121c306192F3187a3EEe47B9C697BA0",
+  "risk": "2",
+  "title": "Oracle Prices Could Be Stale Or Manipulated due to latestAnswer() call",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2022-05-bunker-findings/issues/75"
+}
