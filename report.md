@@ -1,3 +1,11 @@
+---
+sponsor: "bunker.finance"
+slug: "2022-05-bunker"
+date: "2022-07-25"
+title: "bunker.finance contest"
+findings: "https://github.com/code-423n4/2022-05-bunker-findings/issues"
+contest: 117
+---
 
 # Overview
 
